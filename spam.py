@@ -37,10 +37,12 @@ if __name__ == '__main__':
 	try:
 		print("""\033[1m
    _____ __  ________
-  / ___//  |/  / ___/ | SMS Spammer
-  \__ \/ /|_/ /\__ \  | SMS Spammer using api from IndiHome
- ___/ / /  / /___/ /  | Coded by ./Throne404 - \033[31;2mCrashsys\033[39;2mtemSquad\033[0;1m
+  / ___//  |/  / ___/ | Author : ./Throne404
+  \__ \/ /|_/ /\__ \  | Date : 2020-04-21
+ ___/ / /  / /___/ /  | SMS Spammer using api from Indihome
 /____/_/  /_//____/   | ex: 08xxxxx77\033[0m
+
+
 	""")
 
 		no = input("No    : ")
